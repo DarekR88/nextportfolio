@@ -7,6 +7,7 @@ export default function Page() {
       <header className="flex justify-center items-center min-w-full h-20">
         <p>Darek Radke Blog</p>
       </header>
+      
     </>
   );
 }
